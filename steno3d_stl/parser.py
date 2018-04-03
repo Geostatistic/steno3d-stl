@@ -77,7 +77,7 @@ class stl(steno3d.parsers.BaseParser):                          # nopep8
         if verbose and len(warnings) > 0:
             print('  If you are interested in contributing to unsupported '
                   'features, please visit\n'
-                  '      https://github.com/3ptscience/steno3d-stl')
+                  '      https://github.com/seequent/steno3d-stl')
 
         return (project,)
 
